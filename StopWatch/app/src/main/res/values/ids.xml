@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="background" type="id" />
+    <item name="logo" type="id" />
+    <item name="line" type="id" />
+    <item name="hour" type="id" />
+    <item name="minute" type="id" />
+    <item name="colon1" type="id" />
+    <item name="colon2" type="id" />
+    <item name="seconds" type="id" />
+    <item name="h" type="id" />
+    <item name="m" type="id" />
+    <item name="s" type="id" />
+    <item name="startButton" type="id" />
+    <item name="milli_second" type="id" />
+</resources>
